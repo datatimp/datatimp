@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm currently working on a Data Anlyst roadmap
 
 <!--
 **WrinkleRelease/WrinkleRelease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![roadmap.sh](https://roadmap.sh/card/tall/67d1813e81e9e8dd79e1c5d2?variant=dark&roadmaps=sql%2Cdata-analyst%2Cgit-github%2Cpython)](https://roadmap.sh)

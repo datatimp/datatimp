@@ -1,4 +1,4 @@
-## Creator who enjoys working with data.
+## Data analysis, content creation, and a little graphic design on the side
 
 <!--
 **WrinkleRelease/WrinkleRelease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

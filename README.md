@@ -1,4 +1,4 @@
-## UI/UX, graphic desogn, content creation, and a little data work on the side
+## UI/UX, graphic design, content creation, and a little data work on the side
 
 <!--
 **WrinkleRelease/WrinkleRelease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

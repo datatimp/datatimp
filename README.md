@@ -46,10 +46,9 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/datatimp/palettary">
-        <img src="https://raw.githubusercontent.com/datatimp/palettary/main/assets/images/palettary-wordmark-brand-primary1a.svg" width="100px" alt="Palettary Logo" />
+        <h3>Palettary</h3>
       </a>
-      <br /><br />
-      <strong>Palettary</strong>
+      <strong>Web apps for Figma</strong>
       <br />
       A collection of web apps for Figma including color primitive collections and file thumbnail generator.
       <br />
@@ -71,7 +70,7 @@
       </a>
       <strong>Educational Tools</strong>
       <br />
-      Custom styling and templates for Anki language learning decks, turning complex DBs into intuitive tools.
+      Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.
       <br />
       <a href="https://github.com/datatimp/anki-cards">View Repo</a>
     </td>

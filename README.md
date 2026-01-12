@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 
+<img alt="Static Badge" src="https://img.shields.io/badge/View_Git-black?logo=GitHub&link=https://www.github.com/datatimp/palettary">
+
+
+
 </div>
 
 <hr />
@@ -52,7 +56,8 @@
       <br />
       A collection of web apps for Figma including color primitive collections and file thumbnail generator.
       <br />
-      <a href="https://datatimp.github.io/palettary/">View App</a>
+      <img style="margin: 5px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue?link=https%3A%2F%2Fdatatimp.github.io%2Fpalettary">
+      <img alt="Static Badge" src="https://img.shields.io/badge/View_Git-black?logo=GitHub&link=https%3A%2F%2Fwww.github.com%2Fdatatimp%2Fpalettary">
     </td>
     <td align="center" width="33%">
       <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">

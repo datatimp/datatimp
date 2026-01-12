@@ -4,16 +4,16 @@
   <p><strong>UI/UX Designer & Design System Architect</strong></p>
   
   <a href="https://datatimp.github.io/resume">
-    <img src="https://img.shields.io/badge/View_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Resume" />
-  </a>
+    <img src="https://img.shields.io/badge/Resume-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   <a href="mailto:datatimp@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+    " alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/timothypevey/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.behance.net/datatimp">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    <img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 </div>
 
@@ -30,14 +30,11 @@
 <h3 align="center">Design & Development Stack</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-595DB4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-
-<img alt="Static Badge" src="https://img.shields.io/badge/View_Git-black?logo=GitHub&link=https://www.github.com/datatimp/palettary">
-
 
 
 </div>
@@ -56,8 +53,12 @@
       <br />
       A collection of web apps for Figma including color primitive collections and file thumbnail generator.
       <br />
-      <img style="margin: 5px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue?link=https%3A%2F%2Fdatatimp.github.io%2Fpalettary">
-      <img alt="Static Badge" src="https://img.shields.io/badge/View_Git-black?logo=GitHub&link=https%3A%2F%2Fwww.github.com%2Fdatatimp%2Fpalettary">
+      <a href="https://datatimp.github.io/palettary" style="text-decoration: none;">
+        <img style="margin: 10px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue">
+      </a>
+      <a href="https://github.com/datatimp/palettary" style="text-decoration: none;">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">
@@ -67,7 +68,7 @@
       <br />
       Comprehensive design system for Dime Payments, featuring scalable component libraries and tokens.
       <br />
-      <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">View in Figma</a>
+      <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1"><img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white"></a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/datatimp/anki-cards">
@@ -77,7 +78,9 @@
       <br />
       Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.
       <br />
-      <a href="https://github.com/datatimp/anki-cards">View Repo</a>
+      <a href="https://github.com/datatimp/anki-cards" style="text-decoration: none;">
+        <img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white">
+      </a>
     </td>
   </tr>
 </table>

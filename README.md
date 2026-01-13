@@ -1,8 +1,3 @@
----
-title: Tim Pevey GitHub Profile
----
-
-
 <div align="center">
   <img src="https://datatimp.github.io/resume/assets/images/tim-headshot-01c-circle-sm.png" width="120" alt="Tim Pevey Profile Pic" style="border-radius: 50%;" />
   <h1>Tim Pevey</h1>
@@ -35,55 +30,56 @@ title: Tim Pevey GitHub Profile
 
 <h3 align="center">Featured Projects</h3>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
-      <strong>Web apps for Figma</strong>
-      <br />
-      A collection of web apps for Figma including color primitive collections and file thumbnail generator.
-      <br />
-      <a href="https://datatimp.github.io/palettary" style="text-decoration: none;"><img style="margin: 10px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue"></a>&nbsp;<a href="https://github.com/datatimp/palettary" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white"></a>
-    </td>
-    <td align="center" width="33%">
-      <h3><a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">Dime Design System</a></h3>
-      <strong>Design System Architecture</strong>
-      <br />
-      Comprehensive design system for Dime Payments, featuring scalable component libraries and tokens.
-      <br />
-      <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1" style="text-decoration: none;"><img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white"></a>
-    </td>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
-      <strong>Educational Tools</strong>
-      <br />
-      Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.
-      <br />
-      <a href="https://github.com/datatimp/anki-cards" style="text-decoration: none;"><img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
+  <strong>Web apps for Figma</strong>
+  <p>A collection of web apps for Figma including color primitive collections and file thumbnail generator.</p>
+  <img src="assets/images/palettary-old-standby-screen.png" height="400px"  alt="Palettary Preview" />
+  <br/>
+  <a href="https://datatimp.github.io/palettary"><img src="https://img.shields.io/badge/View_App-blue" alt="View App"></a>
+  <a href="https://github.com/datatimp/palettary"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
+
+  <br/><br/><br/>
+
+  <h3><a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">Dime Design System</a></h3>
+  <strong>Design System Architecture</strong>
+  <p>Comprehensive design system for Dime Payments, featuring scalable component libraries and tokens.</p>
+  <img src="assets/images/dime-design-system-cover.png" height="400px" alt="Design System Preview" />
+  <br/>
+  <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1"><img src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white" alt="Figma"></a>
+
+  <br/><br/><br/>
+
+  <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
+  <strong>Educational Tools</strong>
+  <p>Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.</p>
+  <img src="assets/images/anki-cards-kanji-screen.png" height="400px" alt="Anki Cards Preview" />
+  <br/>
+  <a href="https://github.com/datatimp/anki-cards"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
+
+</div>
 
 --- 
 
 <h3 align="center">Creative Ventures</h3>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%">
-      <h3><a href="https://validopinion.dashery.com/">Valid Opinion</a></h3>
-      <strong>Apparel Design</strong>
-      <br />
-      My  T-Shirt store featuring original art.
-      <br />
-      <a href="https://validopinion.dashery.com/">Visit Store</a>
-    </td>
-    <td align="center" width="50%">
-      <h3><a href="https://www.behance.net/gallery/239903619/Art-Prints">Art Prints</a></h3>
-      <strong>Graphic Design</strong>
-      <br />
-      A curated sampling of my graphic design work.     <br />
-      <a href="https://www.behance.net/gallery/239903619/Art-Prints">View Gallery</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <h3><a href="https://validopinion.dashery.com/">Valid Opinion</a></h3>
+  <strong>Apparel Design</strong>
+  <p>My T-Shirt store featuring original art.</p>
+  <img src="assets/images/dashery-store-screen.png" height="400px" alt="T-Shirt Store Preview" />
+  <br/>
+  <a href="https://validopinion.dashery.com/">Visit Store</a>
+
+  <br/><br/><br/>
+
+  <h3><a href="https://www.behance.net/gallery/239903619/Art-Prints">Art Prints</a></h3>
+  <strong>Graphic Design</strong>
+  <p>A curated sampling of my graphic design work.</p>
+  <img src="assets/images/art-prints-screen.png" height="400px" alt="Art Prints Preview" />
+  <br/>
+  <a href="https://www.behance.net/gallery/239903619/Art-Prints">View Gallery</a>
+
+</div>

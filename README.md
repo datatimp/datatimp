@@ -35,9 +35,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/datatimp/palettary">
-        <h3>Palettary</h3>
-      </a>
+      <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
       <strong>Web apps for Figma</strong>
       <br />
       A collection of web apps for Figma including color primitive collections and file thumbnail generator.
@@ -45,9 +43,7 @@
       <a href="https://datatimp.github.io/palettary" style="text-decoration: none;"><img style="margin: 10px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue"></a>&nbsp;<a href="https://github.com/datatimp/palettary" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white"></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">
-        <h3>Dime Design System</h3>
-      </a>
+      <h3><a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">Dime Design System</a></h3>
       <strong>Design System Architecture</strong>
       <br />
       Comprehensive design system for Dime Payments, featuring scalable component libraries and tokens.
@@ -55,9 +51,7 @@
       <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1" style="text-decoration: none;"><img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white"></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/datatimp/anki-cards">
-        <h3>Anki Cards</h3>
-      </a>
+      <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
       <strong>Educational Tools</strong>
       <br />
       Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.
@@ -74,9 +68,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <a href="https://validopinion.dashery.com/">
-        <h3>Valid Opinion</h3>
-      </a>
+      <h3><a href="https://validopinion.dashery.com/">Valid Opinion</a></h3>
       <strong>Apparel Design</strong>
       <br />
       My  T-Shirt store featuring original art.
@@ -84,9 +76,7 @@
       <a href="https://validopinion.dashery.com/">Visit Store</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.behance.net/gallery/239903619/Art-Prints">
-        <h3>Art Prints</h3>
-      </a>
+      <h3><a href="https://www.behance.net/gallery/239903619/Art-Prints">Art Prints</a></h3>
       <strong>Graphic Design</strong>
       <br />
       A curated sampling of my graphic design work.     <br />

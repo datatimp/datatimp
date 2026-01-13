@@ -3,18 +3,7 @@
   <h1>Tim Pevey</h1>
   <p><strong>UI/UX Designer & Design System Architect</strong></p>
   
-  <a href="https://datatimp.github.io/resume" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Resume-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:datatimp@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/timothypevey/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/datatimp" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
+  <a href="https://datatimp.github.io/resume" style="text-decoration: none;"><img src="https://img.shields.io/badge/Resume-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>&nbsp;<a href="mailto:datatimp@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://www.linkedin.com/in/timothypevey/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://www.behance.net/datatimp" style="text-decoration: none;"><img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
 </div>
 
 <br />
@@ -53,12 +42,7 @@
       <br />
       A collection of web apps for Figma including color primitive collections and file thumbnail generator.
       <br />
-      <a href="https://datatimp.github.io/palettary" style="text-decoration: none;">
-        <img style="margin: 10px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue">
-      </a>
-      <a href="https://github.com/datatimp/palettary" style="text-decoration: none;">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white">
-      </a>
+      <a href="https://datatimp.github.io/palettary" style="text-decoration: none;"><img style="margin: 10px 5px 0px 0px" alt="Static Badge" src="https://img.shields.io/badge/View_App-blue"></a>&nbsp;<a href="https://github.com/datatimp/palettary" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white"></a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">
@@ -68,9 +52,7 @@
       <br />
       Comprehensive design system for Dime Payments, featuring scalable component libraries and tokens.
       <br />
-      <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1" style="text-decoration: none;">
-        <img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white">
-      </a>
+      <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1" style="text-decoration: none;"><img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white"></a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/datatimp/anki-cards">
@@ -80,9 +62,7 @@
       <br />
       Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.
       <br />
-      <a href="https://github.com/datatimp/anki-cards" style="text-decoration: none;">
-        <img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white">
-      </a>
+      <a href="https://github.com/datatimp/anki-cards" style="text-decoration: none;"><img alt="Static Badge" style="margin-top: 10px;" src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white"></a>
     </td>
   </tr>
 </table>

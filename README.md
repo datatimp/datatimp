@@ -35,7 +35,7 @@ title: Tim Pevey GitHub Profile
 
 <h3 align="center">Featured Projects</h3>
 
-<table align="center" style="border: none;">
+<table align="center" border="0">
   <tr>
     <td align="center" width="33%">
       <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>

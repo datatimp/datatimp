@@ -18,15 +18,35 @@
 
 <h3 align="center">Design & Development Stack</h3>
 
+<!-- Tech Stack Badges -->
 <div align="center">
- <picture>
-     <img src="https://img.shields.io/badge/Figma-595DB4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" />
+  <picture>
+    <img src="https://img.shields.io/badge/Figma-874FFF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" />
   </picture>
-&nbsp;&nbsp;&nbsp;
-  <a href="#!"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#!"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#!"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#!"><img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYuNzI4IDUuOTg0QzcuMDA4IDYuODk2IDcuMjk2IDcuODA4IDcuNTg0IDguNzM2SDUuODg4QzYuMTc2IDcuODA4IDYuNDQ4IDYuODk2IDYuNzI4IDUuOTg0WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyIDBINEMyLjkzOTEzIDAgMS45MjE3MiAwLjQyMTQyNyAxLjE3MTU3IDEuMTcxNTdDMC40MjE0MjcgMS45MjE3MiAwIDIuOTM5MTMgMCA0VjEyQzAgMTMuMDYwOSAwLjQyMTQyNyAxNC4wNzgzIDEuMTcxNTcgMTQuODI4NEMxLjkyMTcyIDE1LjU3ODYgMi45MzkxMyAxNiA0IDE2SDEyQzEzLjA2MDkgMTYgMTQuMDc4MyAxNS41Nzg2IDE0LjgyODQgMTQuODI4NEMxNS41Nzg2IDE0LjA3ODMgMTYgMTMuMDYwOSAxNiAxMlY0QzE2IDIuOTM5MTMgMTUuNTc4NiAxLjkyMTcyIDE0LjgyODQgMS4xNzE1N0MxNC4wNzgzIDAuNDIxNDI3IDEzLjA2MDkgMCAxMiAwWk05Ljk5MiAxMS44MjRIOC43NDRDOC42OTQyMiAxMS44MzA5IDguNjQzNzEgMTEuODE4IDguNjAzMzMgMTEuNzg4MUM4LjU2Mjk0IDExLjc1ODIgOC41MzU5IDExLjcxMzYgOC41MjggMTEuNjY0QzguMzc2IDExLjIxNiA4LjIxNiAxMC43NjggOC4wNjQgMTAuMzEyQzguMDU5MjEgMTAuMjgzNCA4LjA0ODcyIDEwLjI1NjEgOC4wMzMxNCAxMC4yMzE2QzguMDE3NTYgMTAuMjA3MiA3Ljk5NzIzIDEwLjE4NjEgNy45NzMzNCAxMC4xNjk3QzcuOTQ5NDUgMTAuMTUzMyA3LjkyMjUgMTAuMTQxOCA3Ljg5NDA5IDEwLjEzNkM3Ljg2NTY5IDEwLjEzMDIgNy44MzY0MSAxMC4xMzAyIDcuODA4IDEwLjEzNkg1LjY4QzUuNjUwNDUgMTAuMTI5IDUuNjE5NzUgMTAuMTI4NCA1LjU4OTkzIDEwLjEzNDFDNS41NjAxIDEwLjEzOTcgNS41MzE4MSAxMC4xNTE3IDUuNTA2ODkgMTAuMTY5QzUuNDgxOTggMTAuMTg2NCA1LjQ2MTAxIDEwLjIwODggNS40NDUzNSAxMC4yMzQ4QzUuNDI5NjkgMTAuMjYwOCA1LjQxOTY5IDEwLjI4OTkgNS40MTYgMTAuMzJDNS4yOCAxMC43NjggNS4xMjggMTEuMiA0Ljk5MiAxMS42NDhDNC45ODgyIDExLjY3NjMgNC45Nzg2MiAxMS43MDM0IDQuOTYzODcgMTEuNzI3OUM0Ljk0OTExIDExLjc1MjMgNC45Mjk1IDExLjc3MzQgNC45MDYyNCAxMS43ODk5QzQuODgyOTggMTEuODA2NCA0Ljg1NjU4IDExLjgxNzkgNC44Mjg2NyAxMS44MjM4QzQuODAwNzYgMTEuODI5NyA0Ljc3MTk0IDExLjgyOTcgNC43NDQgMTEuODI0SDMuNjQ4QzMuNDU2IDExLjgyNCAzLjQ0IDExLjgyNCAzLjUwNCAxMS42MjRMNS4yMzIgNi42NEM1LjM5MiA2LjE4NCA1LjU1MiA1LjcyOCA1LjY5NiA1LjI3MkM1LjczNTU2IDUuMTM2NzYgNS43NTcwOCA0Ljk5Njg4IDUuNzYgNC44NTZDNS43NiA0LjY4OCA1LjgyNCA0LjY0OCA1Ljk3NiA0LjY1Nkg3LjUwNEM3LjYxNiA0LjY1NiA3LjY3MiA0LjY1NiA3LjcxMiA0LjgwOEw5LjY4IDEwLjM1MkM5LjgzMiAxMC43ODQgOS45ODQgMTEuMjA4IDEwLjEyOCAxMS42MzJDMTAuMTkyIDExLjgwOCAxMC4xODQgMTEuODI0IDkuOTkyIDExLjgyNFpNMTIuNDQgMTEuNjg4QzEyLjQ0IDExLjgyNCAxMi4zODQgMTEuODY0IDEyLjI1NiAxMS44NjRIMTEuMTA0QzEwLjk0NCAxMS44NjQgMTAuOTA0IDExLjggMTAuOTA0IDExLjY1NlY2LjYzMkMxMC45MDQgNi40NzIgMTAuOTUyIDYuNDA4IDExLjEyIDYuNDE2SDEyLjI0OEMxMi4zNzYgNi40MTYgMTIuNDQgNi40MTYgMTIuNDQgNi41OTJDMTIuNDM0NyA4LjI4OCAxMi40MzQ3IDkuOTg2NjcgMTIuNDQgMTEuNjg4Wk0xMS42NCA1Ljg0OEMxMS41MjU0IDUuODU1MjggMTEuNDEwNSA1LjgzNzc5IDExLjMwMzIgNS43OTY3MkMxMS4xOTYgNS43NTU2NSAxMS4wOTg4IDUuNjkxOTYgMTEuMDE4NCA1LjYwOTk4QzEwLjkzNzkgNS41MjgwMSAxMC44NzYgNS40Mjk2NyAxMC44MzcgNS4zMjE2NUMxMC43OTc5IDUuMjEzNjQgMTAuNzgyNiA1LjA5ODQ3IDEwLjc5MiA0Ljk4NEMxMC43OTMgNC44NzAyMSAxMC44MTY3IDQuNzU3NzggMTAuODYxNyA0LjY1MzI2QzEwLjkwNjcgNC41NDg3NCAxMC45NzIxIDQuNDU0MjMgMTEuMDU0IDQuMzc1MjhDMTEuMTM1OSA0LjI5NjMyIDExLjIzMjggNC4yMzQ0OSAxMS4zMzg5IDQuMTkzNEMxMS40NDUgNC4xNTIzMiAxMS41NTgzIDQuMTMyODEgMTEuNjcyIDQuMTM2QzExLjc4MjcgNC4xMzU2NSAxMS44OTIyIDQuMTU4MjYgMTEuOTkzNyA0LjIwMjRDMTIuMDk1MiA0LjI0NjU1IDEyLjE4NjQgNC4zMTEyNyAxMi4yNjE2IDQuMzkyNDdDMTIuMzM2OCA0LjQ3MzY3IDEyLjM5NDMgNC41Njk1OSAxMi40MzA1IDQuNjc0MTdDMTIuNDY2NyA0Ljc3ODc0IDEyLjQ4MDkgNC44ODk2OSAxMi40NzIgNUMxMi40Nzg2IDUuMTA5MDMgMTIuNDYyNyA1LjIxODI0IDEyLjQyNTUgNS4zMjA5MUMxMi4zODgyIDUuNDIzNTggMTIuMzMwMyA1LjUxNzUzIDEyLjI1NTQgNS41OTY5OEMxMi4xODA0IDUuNjc2NDMgMTIuMDkgNS43Mzk2OCAxMS45ODk3IDUuNzgyODVDMTEuODg5MyA1LjgyNjAzIDExLjc4MTIgNS44NDgyIDExLjY3MiA1Ljg0OEgxMS42NFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik03LjU4NCA4LjczNkg1Ljg4OEM2LjE3NiA3LjgwOCA2LjQ0OCA2Ljg5NiA2LjY4OCA1Ljk4NEM3LjAwOCA2Ljg5NiA3LjI5NiA3LjgwOCA3LjU4NCA4LjczNloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white" alt="Adobe Illustrator badge" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer" alt="Figma">
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS3 badge" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" />
+  </picture>
 </div>
 
 ---

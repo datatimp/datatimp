@@ -19,11 +19,14 @@
 <h3 align="center">Design & Development Stack</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-595DB4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+ <picture>
+     <img src="https://img.shields.io/badge/Figma-595DB4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" />
+  </picture>
+&nbsp;&nbsp;&nbsp;
+  <a href="#!"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#!"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#!"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#!"><img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" /></a>
 </div>
 
 ---
@@ -35,7 +38,9 @@
   <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
   <strong>Web apps for Figma</strong>
   <p>A collection of web apps for Figma including color primitive collections and file thumbnail generator.</p>
+  <a href="https://github.com/datatimp/palettary">
   <img src="assets/images/palettary-old-standby-screen.png" height="400px"  alt="Palettary Preview" />
+  </a>
   <br/>
   <a href="https://datatimp.github.io/palettary"><img src="https://img.shields.io/badge/View_App-blue" alt="View App"></a>
   <a href="https://github.com/datatimp/palettary"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
@@ -45,7 +50,9 @@
   <h3><a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">Dime Design System</a></h3>
   <strong>Design System Architecture</strong>
   <p>Comprehensive design system for Dime Payments, featuring scalable component libraries and tokens.</p>
+  <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">
   <img src="assets/images/dime-design-system-cover.png" height="400px" alt="Design System Preview" />
+  </a>
   <br/>
   <a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1"><img src="https://img.shields.io/badge/View%20In%20Figma-595DB4?logo=Figma&logoColor=white" alt="Figma"></a>
 
@@ -54,13 +61,15 @@
   <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
   <strong>Educational Tools</strong>
   <p>Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.</p>
+ <a href="https://github.com/datatimp/anki-cards">
   <img src="assets/images/anki-cards-kanji-screen.png" height="400px" alt="Anki Cards Preview" />
+  </a>
   <br/>
   <a href="https://github.com/datatimp/anki-cards"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
 
 </div>
 
---- 
+---
 
 <h3 align="center">Creative Ventures</h3>
 

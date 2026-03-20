@@ -29,9 +29,13 @@
   </picture>
   &nbsp;&nbsp;&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer" alt="Figma">
+    <img src="https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logo=Rive&logoColor=FFFFFF" alt="Rive" />
   </picture>
   &nbsp;&nbsp;&nbsp;
+  <!-- <picture>
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer" alt="Figma">
+  </picture>
+  &nbsp;&nbsp;&nbsp; -->
   <picture>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
   </picture>
@@ -42,10 +46,6 @@
   &nbsp;&nbsp;&nbsp;
   <picture>
     <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge" />
-  </picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture>
-    <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" />
   </picture>
 </div>
 

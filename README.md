@@ -67,6 +67,17 @@
 
   <br/><br/><br/>
 
+  <h3><a href="https://heartfulgardens.com">Heartful Gardens</a></h3>
+  <strong>Brand & Web Design</strong>
+  <p>A brand, website and ordering system for a small-batch garden bakery.</p>
+  <a href="https://heartfulgardens.com">
+  <img src="assets/images/heartful-gardens-screen.png" height="400px" alt="Heartful Gardens Preview" />
+  </a>
+  <br/>
+  <a href="https://heartfulgardens.com"><img src="https://img.shields.io/badge/Visit_Site-blue" alt="Visit Site"></a>
+
+  <br/><br/><br/>
+
   <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
   <strong>Web apps for Figma</strong>
   <p>A collection of web apps for Figma including color primitive collections and file thumbnail generator.</p>

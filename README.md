@@ -3,8 +3,8 @@
   <h1>Tim Pevey</h1>
   <p><strong>Product Designer, UI/UX Designer & Design System Architect</strong></p>
   
-  <a href="https://timpevey.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:datatimp@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timothypevey/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/datatimp" style="text-decoration: none;">
-  <!-- <img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a> -->
+  <a href="https://timpevey.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:datatimp@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timothypevey/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" /></a>
+  <!-- &nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/datatimp" style="text-decoration: none;"><img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a> -->
 </div>
 
 <br />
@@ -52,21 +52,9 @@
 
 ---
 
-<h3 align="center">Featured Projects</h3>
+<h3 align="center">Design Work</h3>
 
 <div align="center">
-
-  <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
-  <strong>Web apps for Figma</strong>
-  <p>A collection of web apps for Figma including color primitive collections and file thumbnail generator.</p>
-  <a href="https://github.com/datatimp/palettary">
-  <img src="assets/images/palettary-old-standby-screen.png" height="400px"  alt="Palettary Preview" />
-  </a>
-  <br/>
-  <a href="https://datatimp.github.io/palettary"><img src="https://img.shields.io/badge/View_App-blue" alt="View App"></a>
-  <a href="https://github.com/datatimp/palettary"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
-
-  <br/><br/><br/>
 
   <h3><a href="https://www.figma.com/design/QaE6JEJ1vNFc1Y8XOrcogl/Dime-Payment-Design-System?m=auto&t=ZEBJ9t8beEsmTjA9-1">Dime Design System</a></h3>
   <strong>Design System Architecture</strong>
@@ -79,22 +67,17 @@
 
   <br/><br/><br/>
 
-  <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
-  <strong>Educational Tools</strong>
-  <p>Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.</p>
- <a href="https://github.com/datatimp/anki-cards">
-  <img src="assets/images/anki-cards-kanji-screen.png" height="400px" alt="Anki Cards Preview" />
+  <h3><a href="https://github.com/datatimp/palettary">Palettary</a></h3>
+  <strong>Web apps for Figma</strong>
+  <p>A collection of web apps for Figma including color primitive collections and file thumbnail generator.</p>
+  <a href="https://github.com/datatimp/palettary">
+  <img src="assets/images/palettary-old-standby-screen.png" height="400px"  alt="Palettary Preview" />
   </a>
   <br/>
-  <a href="https://github.com/datatimp/anki-cards"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
+  <a href="https://www.palettary.com"><img src="https://img.shields.io/badge/View_App-blue" alt="View App"></a>
+  <a href="https://github.com/datatimp/palettary"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
 
-</div>
-
----
-
-<h3 align="center">Selected Portfolio</h3>
-
-<div align="center">
+  <br/><br/><br/>
 
   <h3><a href="https://validopinion.dashery.com/">Valid Opinion</a></h3>
   <strong>Apparel Design</strong>
@@ -111,5 +94,57 @@
   <img src="assets/images/art-prints-screen.png" height="400px" alt="Art Prints Preview" />
   <br/>
   <a href="https://www.behance.net/gallery/239903619/Art-Prints">View Gallery</a>
+
+</div>
+
+---
+
+<h3 align="center">Tools I Designed and Built</h3>
+
+<div align="center">
+
+  <h3><a href="https://github.com/datatimp/jsc-pair-generator">JSC Pair Generator</a></h3>
+  <strong>Tools for Groups</strong>
+  <p>A one-button tool that pairs up members of a job search group. Tap a face to sit someone out, hit the button, get your pairs. An odd count makes one group of three.</p>
+  <a href="https://github.com/datatimp/jsc-pair-generator">
+  <img src="assets/images/jsc-pair-generator-screen.png" height="400px" alt="JSC Pair Generator Preview" />
+  </a>
+  <br/>
+  <a href="https://datatimp.github.io/jsc-pair-generator"><img src="https://img.shields.io/badge/View_App-blue" alt="View App"></a>
+  <a href="https://github.com/datatimp/jsc-pair-generator"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
+
+  <br/><br/><br/>
+
+  <h3><a href="https://github.com/datatimp/rosette-halftone">Rosette</a></h3>
+  <strong>Print Production</strong>
+  <p>Turns a photo into four CMYK halftone plates, one clean vector SVG per ink at the right screen angle. I built it for my own screen print and riso work.</p>
+  <a href="https://github.com/datatimp/rosette-halftone">
+  <img src="assets/images/rosette-halftone-screen.png" height="400px" alt="Rosette Preview" />
+  </a>
+  <br/>
+  <a href="https://pypi.org/project/rosette-halftone/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white" alt="PyPI"></a>
+  <a href="https://github.com/datatimp/rosette-halftone"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
+
+  <br/><br/><br/>
+
+  <h3><a href="https://github.com/datatimp/illreader">illreader</a></h3>
+  <strong>Design Handoff for AI</strong>
+  <p>AI agents can't open Illustrator, so they guess from pixels. illreader reads the file's own data and hands them what the designer built: layer names, live type specs, colors and hidden layers.</p>
+  <a href="https://github.com/datatimp/illreader">
+  <img src="assets/images/illreader-screen.png" height="400px" alt="illreader Preview" />
+  </a>
+  <br/>
+  <a href="https://github.com/datatimp/illreader"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
+
+  <br/><br/><br/>
+
+  <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
+  <strong>Educational Tools</strong>
+  <p>Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.</p>
+ <a href="https://github.com/datatimp/anki-cards">
+  <img src="assets/images/anki-cards-kanji-screen.png" height="400px" alt="Anki Cards Preview" />
+  </a>
+  <br/>
+  <a href="https://github.com/datatimp/anki-cards"><img src="https://img.shields.io/badge/Git-333333?logo=GitHub&logoColor=white" alt="Git"></a>
 
 </div>

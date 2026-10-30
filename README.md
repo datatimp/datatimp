@@ -104,7 +104,7 @@
 <div align="center">
 
   <h3><a href="https://github.com/datatimp/jsc-pair-generator">JSC Pair Generator</a></h3>
-  <strong>Tools for Groups</strong>
+  <strong>- Tools for Groups -</strong>
   <p>A one-button tool that pairs up members of a job search group. Tap a face to sit someone out, hit the button, get your pairs. An odd count makes one group of three.</p>
   <a href="https://github.com/datatimp/jsc-pair-generator">
   <img src="assets/images/jsc-pair-generator-screen.png" height="400px" alt="JSC Pair Generator Preview" />
@@ -116,7 +116,8 @@
   <br/><br/><br/>
 
   <h3><a href="https://github.com/datatimp/rosette-halftone">Rosette</a></h3>
-  <strong>Print Production</strong>
+  <strong>- Print Production -</strong>
+ 
   <p>Turns a photo into four CMYK halftone plates, one clean vector SVG per ink at the right screen angle. I built it for my own screen print and riso work.</p>
   <a href="https://github.com/datatimp/rosette-halftone">
   <img src="assets/images/rosette-halftone-screen.png" height="400px" alt="Rosette Preview" />
@@ -128,7 +129,7 @@
   <br/><br/><br/>
 
   <h3><a href="https://github.com/datatimp/illreader">illreader</a></h3>
-  <strong>Design Handoff for AI</strong>
+  <strong>- Design Handoff for AI -</strong>
   <p>AI agents can't open Illustrator, so they guess from pixels. illreader reads the file's own data and hands them what the designer built: layer names, live type specs, colors and hidden layers.</p>
   <a href="https://github.com/datatimp/illreader">
   <img src="assets/images/illreader-screen.png" height="400px" alt="illreader Preview" />
@@ -139,7 +140,7 @@
   <br/><br/><br/>
 
   <h3><a href="https://github.com/datatimp/anki-cards">Anki Cards</a></h3>
-  <strong>Educational Tools</strong>
+  <strong>- Educational Tools -</strong>
   <p>Custom styling and templates for language learning decks, turning complex DBs into intuitive tools.</p>
  <a href="https://github.com/datatimp/anki-cards">
   <img src="assets/images/anki-cards-kanji-screen.png" height="400px" alt="Anki Cards Preview" />
